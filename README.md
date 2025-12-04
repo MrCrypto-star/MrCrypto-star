@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrCrypto-star
 - 👀 I’m interested in making amazing 2D arcade games.
-- 🌱 I’m currently learning JS, HTML, CSS and more...
+- 🌱 I’m currently learning JS, React and Prompting.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Admixkrol@icloud.com :)
 - 😄 Pronouns: Smile :)
